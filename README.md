@@ -4,7 +4,8 @@
   </tr>
 </table>
 
-# WEBTE2 Assignment č.3 LS 2022/2023
+# WEBTE2 3. Assignment SS 2022/2023
+
 
 This is an assignment for the WEBTE2 course for the academic year 2022/2023.
 
@@ -43,7 +44,7 @@ The assignment focuses on utilizing websockets to create an online game called P
 
 Remember to pay attention to the graphical appearance of the application.
 
-![Figure 1. Game area for one, two, three, and four players](<Figure_1_URL>)
+![Figure 1. Game area for one, two, three, and four players](<game.PNG>)
 
 ## Conclusion
 This assignment focuses on utilizing websockets to create an online game similar to Pong. Follow the instructions provided and make sure to implement the required functionalities. Good luck with your assignment!
