@@ -43,7 +43,7 @@ The assignment focuses on utilizing websockets to create an online game called P
 
 Remember to pay attention to the graphical appearance of the application.
 
-Game area for one, two, three, and four players:
+-Game area for one, two, three, and four players:
 ![Game area for one, two, three, and four players](Capture.PNG)
 
 ## Conclusion
