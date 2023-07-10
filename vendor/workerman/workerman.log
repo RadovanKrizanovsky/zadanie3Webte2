@@ -1,0 +1,1411 @@
+2023-04-12 15:19:18 pid:1179 Workerman[server2.php] start in DEBUG mode
+2023-04-12 15:22:02 pid:1179 Workerman[server2.php] stopping ...
+2023-04-12 15:22:02 pid:1179 Workerman[server2.php] has been stopped
+2023-04-12 15:25:52 pid:1321 Workerman[server2.php] start in DEBUG mode
+2023-04-12 15:30:51 pid:1321 Workerman[server2.php] stopping ...
+2023-04-12 15:30:51 pid:1321 Workerman[server2.php] has been stopped
+2023-04-12 15:31:00 pid:1330 Workerman[server2.php] start in DEBUG mode
+2023-04-12 15:40:40 pid:1330 Workerman[server2.php] stopping ...
+2023-04-12 15:40:40 pid:1330 Workerman[server2.php] has been stopped
+2023-04-12 15:40:43 pid:1387 Workerman[server2.php] start in DEBUG mode
+2023-04-12 15:42:28 pid:1387 Workerman[server2.php] stopping ...
+2023-04-12 15:42:28 pid:1387 Workerman[server2.php] has been stopped
+2023-04-12 15:42:33 pid:1392 Workerman[server2.php] start in DEBUG mode
+2023-04-12 16:26:43 pid:1392 Workerman[server2.php] stopping ...
+2023-04-12 16:26:43 pid:1392 Workerman[server2.php] has been stopped
+2023-04-12 18:27:39 pid:1863 Workerman[server3.php] start in DEBUG mode
+2023-04-12 18:28:23 pid:1863 Workerman[server3.php] stopping ...
+2023-04-12 18:28:23 pid:1863 Workerman[server3.php] has been stopped
+2023-04-12 18:32:53 pid:1870 Workerman[server2.php] start in DEBUG mode
+2023-04-12 18:33:42 pid:1870 Workerman[server2.php] stopping ...
+2023-04-12 18:33:42 pid:1870 Workerman[server2.php] has been stopped
+2023-04-12 18:33:45 pid:1876 Workerman[server2.php] start in DEBUG mode
+2023-04-12 18:38:50 pid:1876 Workerman[server2.php] stopping ...
+2023-04-12 18:38:50 pid:1876 Workerman[server2.php] has been stopped
+2023-04-12 18:38:53 pid:1883 Workerman[server2.php] start in DEBUG mode
+2023-04-12 18:39:56 pid:1883 Workerman[server2.php] stopping ...
+2023-04-12 18:39:56 pid:1883 Workerman[server2.php] has been stopped
+2023-04-12 18:39:58 pid:1936 Workerman[server2.php] start in DEBUG mode
+2023-04-12 19:16:44 pid:2076 Workerman[server2.php] start in DEBUG mode
+2023-04-12 19:16:44 pid:2076 Workerman[server2.php] already running
+2023-04-12 19:17:16 pid:2080 Workerman[server2.php] stop 
+2023-04-12 19:17:16 pid:2080 Workerman[server2.php] is stopping ...
+2023-04-12 19:17:16 pid:1936 Workerman[server2.php] stopping ...
+2023-04-12 19:17:17 pid:1936 Workerman[server2.php] has been stopped
+2023-04-12 19:17:17 pid:2080 Workerman[server2.php] stop success
+2023-04-12 19:17:21 pid:2081 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:03:03 pid:2081 Workerman[server2.php] stopping ...
+2023-04-12 21:03:03 pid:2081 Workerman[server2.php] has been stopped
+2023-04-12 21:03:05 pid:2348 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:04:20 pid:2348 Workerman[server2.php] stopping ...
+2023-04-12 21:04:20 pid:2348 Workerman[server2.php] has been stopped
+2023-04-12 21:04:24 pid:2355 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:05:14 pid:2355 Workerman[server2.php] stopping ...
+2023-04-12 21:05:14 pid:2355 Workerman[server2.php] has been stopped
+2023-04-12 21:05:17 pid:2360 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:07:46 pid:2360 Workerman[server2.php] stopping ...
+2023-04-12 21:07:46 pid:2360 Workerman[server2.php] has been stopped
+2023-04-12 21:07:47 pid:2399 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:24:11 pid:2606 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:24:11 pid:2606 Workerman[server2.php] already running
+2023-04-12 21:24:20 pid:2607 Workerman[server2.php] stop 
+2023-04-12 21:24:20 pid:2607 Workerman[server2.php] is stopping ...
+2023-04-12 21:24:20 pid:2399 Workerman[server2.php] stopping ...
+2023-04-12 21:24:21 pid:2399 Workerman[server2.php] has been stopped
+2023-04-12 21:24:21 pid:2607 Workerman[server2.php] stop success
+2023-04-12 21:24:23 pid:2608 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:30:42 pid:2608 Workerman[server2.php] stopping ...
+2023-04-12 21:30:42 pid:2608 Workerman[server2.php] has been stopped
+2023-04-12 21:30:44 pid:2615 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:31:50 pid:2615 Workerman[server2.php] stopping ...
+2023-04-12 21:31:50 pid:2615 Workerman[server2.php] has been stopped
+2023-04-12 21:31:52 pid:2620 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:44:50 pid:2752 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:44:50 pid:2752 Workerman[server2.php] already running
+2023-04-12 21:44:57 pid:2753 Workerman[server2.php] stop 
+2023-04-12 21:44:57 pid:2753 Workerman[server2.php] is stopping ...
+2023-04-12 21:44:57 pid:2620 Workerman[server2.php] stopping ...
+2023-04-12 21:44:58 pid:2620 Workerman[server2.php] has been stopped
+2023-04-12 21:44:58 pid:2753 Workerman[server2.php] stop success
+2023-04-12 21:45:01 pid:2754 Workerman[server2.php] start in DEBUG mode
+2023-04-12 21:49:17 pid:2754 Workerman[server2.php] stopping ...
+2023-04-12 21:49:17 pid:2754 Workerman[server2.php] has been stopped
+2023-04-12 21:49:19 pid:2818 Workerman[server2.php] start in DEBUG mode
+2023-04-12 22:38:19 pid:3061 Workerman[server2.php] start in DEBUG mode
+2023-04-12 22:38:19 pid:3061 Workerman[server2.php] already running
+2023-04-12 22:38:25 pid:3062 Workerman[server2.php] stop 
+2023-04-12 22:38:25 pid:3062 Workerman[server2.php] is stopping ...
+2023-04-12 22:38:25 pid:2818 Workerman[server2.php] stopping ...
+2023-04-12 22:38:26 pid:2818 Workerman[server2.php] has been stopped
+2023-04-12 22:38:26 pid:3062 Workerman[server2.php] stop success
+2023-04-12 22:38:27 pid:3063 Workerman[server2.php] start in DEBUG mode
+2023-04-12 22:51:34 pid:3063 Workerman[server2.php] stopping ...
+2023-04-12 22:51:35 pid:3063 Workerman[server2.php] has been stopped
+2023-04-12 22:51:38 pid:3119 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:12:43 pid:3119 Workerman[server2.php] stopping ...
+2023-04-12 23:12:43 pid:3119 Workerman[server2.php] has been stopped
+2023-04-12 23:12:46 pid:3179 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:14:29 pid:3179 Workerman[server2.php] stopping ...
+2023-04-12 23:14:29 pid:3179 Workerman[server2.php] has been stopped
+2023-04-12 23:14:31 pid:3186 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:17:29 pid:3186 Workerman[server2.php] stopping ...
+2023-04-12 23:17:29 pid:3186 Workerman[server2.php] has been stopped
+2023-04-12 23:17:32 pid:3195 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:17:58 pid:3195 Workerman[server2.php] stopping ...
+2023-04-12 23:17:58 pid:3195 Workerman[server2.php] has been stopped
+2023-04-12 23:17:59 pid:3200 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:19:24 pid:3200 Workerman[server2.php] stopping ...
+2023-04-12 23:19:24 pid:3200 Workerman[server2.php] has been stopped
+2023-04-12 23:19:25 pid:3205 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:21:54 pid:3205 Workerman[server2.php] stopping ...
+2023-04-12 23:21:54 pid:3205 Workerman[server2.php] has been stopped
+2023-04-12 23:21:56 pid:3210 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:23:17 pid:3210 Workerman[server2.php] stopping ...
+2023-04-12 23:23:17 pid:3210 Workerman[server2.php] has been stopped
+2023-04-12 23:23:18 pid:3216 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:23:27 pid:3218 Exception: You can't send(object) to client, you need to convert it to a string.  in /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Protocols/Websocket.php:243
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Connection/TcpConnection.php(329): Workerman\Protocols\Websocket::encode()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(78): Workerman\Connection\TcpConnection->send()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#7 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#8 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(91): Workerman\Worker::runAll()
+#9 {main}
+2023-04-12 23:23:27 pid:3216 worker[none:3218] exit with status 64000
+2023-04-12 23:23:52 pid:3216 Workerman[server2.php] stopping ...
+2023-04-12 23:23:52 pid:3216 Workerman[server2.php] has been stopped
+2023-04-12 23:23:54 pid:3223 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:23:58 pid:3224 Exception: You can't send(object) to client, you need to convert it to a string.  in /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Protocols/Websocket.php:243
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Connection/TcpConnection.php(329): Workerman\Protocols\Websocket::encode()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(78): Workerman\Connection\TcpConnection->send()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#7 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#8 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(91): Workerman\Worker::runAll()
+#9 {main}
+2023-04-12 23:23:58 pid:3223 worker[none:3224] exit with status 64000
+2023-04-12 23:25:00 pid:3223 Workerman[server2.php] stopping ...
+2023-04-12 23:25:00 pid:3223 Workerman[server2.php] has been stopped
+2023-04-12 23:25:03 pid:3230 Workerman[server2.php] start in DEBUG mode
+2023-04-12 23:29:47 pid:3230 Workerman[server2.php] stopping ...
+2023-04-12 23:29:47 pid:3230 Workerman[server2.php] stopping ...
+2023-04-12 23:29:47 pid:3230 worker[none:3232] exit with status 65280
+2023-04-12 23:29:47 pid:3230 Workerman[server2.php] has been stopped
+2023-04-13 06:06:27 pid:4221 Workerman[server2.php] start in DEBUG mode
+2023-04-13 06:12:44 pid:4221 Workerman[server2.php] stopping ...
+2023-04-13 06:12:44 pid:4221 Workerman[server2.php] has been stopped
+2023-04-13 06:41:10 pid:4614 Workerman[server2.php] start in DEBUG mode
+2023-04-13 06:55:03 pid:4614 Workerman[server2.php] stopping ...
+2023-04-13 06:55:03 pid:4614 Workerman[server2.php] has been stopped
+2023-04-13 06:55:05 pid:5468 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:04:04 pid:5468 Workerman[server2.php] stopping ...
+2023-04-13 07:04:04 pid:5468 Workerman[server2.php] has been stopped
+2023-04-13 07:04:07 pid:5474 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:04:46 pid:5474 Workerman[server2.php] stopping ...
+2023-04-13 07:04:46 pid:5474 Workerman[server2.php] has been stopped
+2023-04-13 07:04:48 pid:5479 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:05:50 pid:5479 Workerman[server2.php] stopping ...
+2023-04-13 07:05:50 pid:5479 Workerman[server2.php] has been stopped
+2023-04-13 07:05:56 pid:5484 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:13:15 pid:5484 Workerman[server2.php] stopping ...
+2023-04-13 07:13:15 pid:5484 Workerman[server2.php] has been stopped
+2023-04-13 07:13:17 pid:5541 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:13:54 pid:5541 Workerman[server2.php] stopping ...
+2023-04-13 07:13:54 pid:5541 Workerman[server2.php] has been stopped
+2023-04-13 07:13:55 pid:5547 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:15:10 pid:5547 Workerman[server2.php] stopping ...
+2023-04-13 07:15:10 pid:5547 Workerman[server2.php] has been stopped
+2023-04-13 07:15:12 pid:5553 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:16:45 pid:5553 Workerman[server2.php] stopping ...
+2023-04-13 07:16:45 pid:5553 Workerman[server2.php] has been stopped
+2023-04-13 07:16:50 pid:5558 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:17:43 pid:5558 Workerman[server2.php] stopping ...
+2023-04-13 07:17:43 pid:5558 Workerman[server2.php] has been stopped
+2023-04-13 07:17:45 pid:5567 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:18:19 pid:5567 Workerman[server2.php] stopping ...
+2023-04-13 07:18:19 pid:5567 Workerman[server2.php] has been stopped
+2023-04-13 07:18:20 pid:5572 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:18:43 pid:5572 Workerman[server2.php] stopping ...
+2023-04-13 07:18:43 pid:5572 Workerman[server2.php] has been stopped
+2023-04-13 07:18:44 pid:5577 Workerman[server2.php] start in DEBUG mode
+2023-04-13 07:28:29 pid:5577 Workerman[server2.php] stopping ...
+2023-04-13 07:28:29 pid:5577 Workerman[server2.php] has been stopped
+2023-04-18 21:57:53 pid:23268 Workerman[server2.php] start in DEBUG mode
+2023-04-18 21:59:02 pid:23268 Workerman[server2.php] stopping ...
+2023-04-18 21:59:02 pid:23268 Workerman[server2.php] has been stopped
+2023-04-18 22:03:30 pid:23338 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:03:33 pid:23338 Workerman[server2.php] stopping ...
+2023-04-18 22:03:33 pid:23338 Workerman[server2.php] has been stopped
+2023-04-18 22:03:36 pid:23343 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:03:41 pid:23344 Error: Call to undefined function generateRandomNumberJsonMessage() in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:48
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(87): Workerman\Worker::runAll()
+#7 {main}
+2023-04-18 22:03:41 pid:23343 worker[none:23344] exit with status 64000
+2023-04-18 22:04:16 pid:23343 Workerman[server2.php] stopping ...
+2023-04-18 22:04:16 pid:23343 Workerman[server2.php] has been stopped
+2023-04-18 22:04:17 pid:23350 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:05:09 pid:23350 Workerman[server2.php] stopping ...
+2023-04-18 22:05:09 pid:23350 Workerman[server2.php] has been stopped
+2023-04-18 22:05:14 pid:23356 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:07:43 pid:23429 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:07:43 pid:23429 Workerman[server2.php] already running
+2023-04-18 22:07:51 pid:23430 Workerman[server2.php] stop 
+2023-04-18 22:07:51 pid:23430 Workerman[server2.php] is stopping ...
+2023-04-18 22:07:51 pid:23356 Workerman[server2.php] stopping ...
+2023-04-18 22:07:52 pid:23356 Workerman[server2.php] has been stopped
+2023-04-18 22:07:52 pid:23430 Workerman[server2.php] stop success
+2023-04-18 22:07:56 pid:23431 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:08:31 pid:23431 Workerman[server2.php] stopping ...
+2023-04-18 22:08:31 pid:23431 Workerman[server2.php] has been stopped
+2023-04-18 22:08:34 pid:23487 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:10:22 pid:23487 Workerman[server2.php] stopping ...
+2023-04-18 22:10:22 pid:23487 Workerman[server2.php] has been stopped
+2023-04-18 22:10:29 pid:23542 Workerman[server2.php] stop 
+2023-04-18 22:10:29 pid:23542 Workerman[server2.php] not run
+2023-04-18 22:10:51 pid:23543 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:11:13 pid:23543 Workerman[server2.php] stopping ...
+2023-04-18 22:11:13 pid:23543 Workerman[server2.php] has been stopped
+2023-04-18 22:14:51 pid:23682 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:23:02 pid:23762 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:23:02 pid:23762 Workerman[server2.php] already running
+2023-04-18 22:23:08 pid:23763 Workerman[server2.php] stop 
+2023-04-18 22:23:08 pid:23763 Workerman[server2.php] is stopping ...
+2023-04-18 22:23:08 pid:23682 Workerman[server2.php] stopping ...
+2023-04-18 22:23:09 pid:23682 Workerman[server2.php] has been stopped
+2023-04-18 22:23:09 pid:23763 Workerman[server2.php] stop success
+2023-04-18 22:23:13 pid:23764 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:23:53 pid:23764 Workerman[server2.php] stopping ...
+2023-04-18 22:23:53 pid:23764 Workerman[server2.php] has been stopped
+2023-04-18 22:23:56 pid:23823 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:30:46 pid:23823 Workerman[server2.php] stopping ...
+2023-04-18 22:30:46 pid:23823 Workerman[server2.php] has been stopped
+2023-04-18 22:33:34 pid:23830 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:33:54 pid:23830 Workerman[server2.php] stopping ...
+2023-04-18 22:33:54 pid:23830 Workerman[server2.php] has been stopped
+2023-04-18 22:33:58 pid:23838 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:37:38 pid:23838 Workerman[server2.php] stopping ...
+2023-04-18 22:37:38 pid:23838 Workerman[server2.php] has been stopped
+2023-04-18 22:37:40 pid:23843 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:42:02 pid:23843 Workerman[server2.php] stopping ...
+2023-04-18 22:42:02 pid:23843 Workerman[server2.php] has been stopped
+2023-04-18 22:42:05 pid:23901 Workerman[server2.php] start in DEBUG mode
+2023-04-18 22:44:01 pid:23901 Workerman[server2.php] stopping ...
+2023-04-18 22:44:01 pid:23901 Workerman[server2.php] has been stopped
+2023-04-19 07:04:22 pid:25132 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:12:28 pid:25132 Workerman[server2.php] stopping ...
+2023-04-19 07:12:28 pid:25132 Workerman[server2.php] has been stopped
+2023-04-19 07:12:31 pid:25249 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:13:06 pid:25249 Workerman[server2.php] stopping ...
+2023-04-19 07:13:06 pid:25249 Workerman[server2.php] has been stopped
+2023-04-19 07:13:08 pid:25254 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:16:41 pid:25254 Workerman[server2.php] stopping ...
+2023-04-19 07:16:41 pid:25254 Workerman[server2.php] has been stopped
+2023-04-19 07:16:44 pid:25260 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:17:39 pid:25260 Workerman[server2.php] stopping ...
+2023-04-19 07:17:39 pid:25260 Workerman[server2.php] has been stopped
+2023-04-19 07:17:42 pid:25269 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:19:05 pid:25269 Workerman[server2.php] stopping ...
+2023-04-19 07:19:05 pid:25269 Workerman[server2.php] has been stopped
+2023-04-19 07:23:51 pid:25275 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:23:59 pid:25277 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:107
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(122): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:23:59 pid:25275 worker[none:25277] exit with status 64000
+2023-04-19 07:25:24 pid:25275 Workerman[server2.php] stopping ...
+2023-04-19 07:25:24 pid:25275 Workerman[server2.php] has been stopped
+2023-04-19 07:25:26 pid:25282 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:25:31 pid:25283 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:107
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(122): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:25:31 pid:25282 worker[none:25283] exit with status 64000
+2023-04-19 07:27:22 pid:25282 Workerman[server2.php] stopping ...
+2023-04-19 07:27:22 pid:25282 Workerman[server2.php] has been stopped
+2023-04-19 07:27:24 pid:25288 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:27:28 pid:25290 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:109
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(124): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:27:28 pid:25288 worker[none:25290] exit with status 64000
+2023-04-19 07:27:29 pid:25289 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:109
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(124): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:27:29 pid:25288 worker[none:25289] exit with status 64000
+2023-04-19 07:28:41 pid:25288 Workerman[server2.php] stopping ...
+2023-04-19 07:28:42 pid:25288 Workerman[server2.php] has been stopped
+2023-04-19 07:28:49 pid:25295 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:28:53 pid:25297 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:111
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(128): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:28:54 pid:25295 worker[none:25297] exit with status 64000
+2023-04-19 07:31:45 pid:25295 Workerman[server2.php] stopping ...
+2023-04-19 07:31:45 pid:25295 Workerman[server2.php] has been stopped
+2023-04-19 07:31:47 pid:25301 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:32:12 pid:25301 Workerman[server2.php] stopping ...
+2023-04-19 07:32:12 pid:25301 Workerman[server2.php] has been stopped
+2023-04-19 07:32:17 pid:25306 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:32:31 pid:25306 Workerman[server2.php] stopping ...
+2023-04-19 07:32:31 pid:25306 Workerman[server2.php] has been stopped
+2023-04-19 07:38:40 pid:25313 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:38:57 pid:25313 Workerman[server2.php] stopping ...
+2023-04-19 07:38:57 pid:25313 Workerman[server2.php] has been stopped
+2023-04-19 07:42:24 pid:25368 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:42:42 pid:25368 Workerman[server2.php] stopping ...
+2023-04-19 07:42:42 pid:25368 Workerman[server2.php] has been stopped
+2023-04-19 07:44:48 pid:25376 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:45:21 pid:25376 Workerman[server2.php] stopping ...
+2023-04-19 07:45:21 pid:25376 Workerman[server2.php] has been stopped
+2023-04-19 07:45:22 pid:25381 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:45:49 pid:25381 Workerman[server2.php] stopping ...
+2023-04-19 07:45:49 pid:25381 Workerman[server2.php] has been stopped
+2023-04-19 07:45:51 pid:25386 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:46:33 pid:25386 Workerman[server2.php] stopping ...
+2023-04-19 07:46:33 pid:25386 Workerman[server2.php] has been stopped
+2023-04-19 07:47:08 pid:25393 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:47:13 pid:25395 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:109
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(134): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:47:13 pid:25393 worker[none:25395] exit with status 64000
+2023-04-19 07:48:30 pid:25393 Workerman[server2.php] stopping ...
+2023-04-19 07:48:30 pid:25393 Workerman[server2.php] has been stopped
+2023-04-19 07:48:31 pid:25399 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:51:18 pid:25399 Workerman[server2.php] stopping ...
+2023-04-19 07:51:18 pid:25399 Workerman[server2.php] has been stopped
+2023-04-19 07:51:19 pid:25404 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:51:24 pid:25408 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:108
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(134): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:51:24 pid:25404 worker[none:25408] exit with status 64000
+2023-04-19 07:52:13 pid:25404 Workerman[server2.php] stopping ...
+2023-04-19 07:52:13 pid:25404 Workerman[server2.php] has been stopped
+2023-04-19 07:52:15 pid:25411 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:53:41 pid:25411 Workerman[server2.php] stopping ...
+2023-04-19 07:53:41 pid:25411 Workerman[server2.php] has been stopped
+2023-04-19 07:53:43 pid:25417 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:54:21 pid:25417 Workerman[server2.php] stopping ...
+2023-04-19 07:54:21 pid:25417 Workerman[server2.php] has been stopped
+2023-04-19 07:54:23 pid:25422 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:54:28 pid:25423 Error: Call to a member function send() on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:107
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(238): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(299): Workerman\Events\Select->tick()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(140): Workerman\Worker::runAll()
+#7 {main}
+2023-04-19 07:54:28 pid:25422 worker[none:25423] exit with status 64000
+2023-04-19 07:55:05 pid:25422 Workerman[server2.php] stopping ...
+2023-04-19 07:55:05 pid:25422 Workerman[server2.php] has been stopped
+2023-04-19 07:55:07 pid:25428 Workerman[server2.php] start in DEBUG mode
+2023-04-19 07:58:38 pid:25428 Workerman[server2.php] stopping ...
+2023-04-19 07:58:38 pid:25428 Workerman[server2.php] has been stopped
+2023-04-19 07:58:40 pid:25433 Workerman[server2.php] start in DEBUG mode
+2023-04-19 08:05:01 pid:25433 Workerman[server2.php] stopping ...
+2023-04-19 08:05:01 pid:25433 Workerman[server2.php] has been stopped
+2023-04-19 08:05:03 pid:25440 Workerman[server2.php] start in DEBUG mode
+2023-04-19 08:06:39 pid:25440 Workerman[server2.php] stopping ...
+2023-04-19 08:06:39 pid:25440 Workerman[server2.php] has been stopped
+2023-04-19 08:06:41 pid:25445 Workerman[server2.php] start in DEBUG mode
+2023-04-19 08:09:45 pid:25445 Workerman[server2.php] stopping ...
+2023-04-19 08:09:45 pid:25445 Workerman[server2.php] has been stopped
+2023-04-19 08:09:47 pid:25500 Workerman[server2.php] start in DEBUG mode
+2023-04-19 08:12:35 pid:25500 Workerman[server2.php] stopping ...
+2023-04-19 08:12:35 pid:25500 Workerman[server2.php] has been stopped
+2023-04-19 08:12:37 pid:25505 Workerman[server2.php] start in DEBUG mode
+2023-04-19 08:15:05 pid:25505 Workerman[server2.php] stopping ...
+2023-04-19 08:15:05 pid:25505 Workerman[server2.php] has been stopped
+2023-04-19 08:15:07 pid:25512 Workerman[server2.php] start in DEBUG mode
+2023-04-19 08:48:13 pid:25512 Workerman[server2.php] stopping ...
+2023-04-19 08:48:13 pid:25512 Workerman[server2.php] stopping ...
+2023-04-19 08:48:13 pid:25512 Workerman[server2.php] has been stopped
+2023-04-19 10:09:27 pid:25839 Workerman[server2.php] start in DEBUG mode
+2023-04-19 10:13:36 pid:25839 Workerman[server2.php] stopping ...
+2023-04-19 10:13:36 pid:25839 Workerman[server2.php] has been stopped
+2023-04-19 10:13:41 pid:25896 Workerman[server2.php] start in DEBUG mode
+2023-04-19 10:20:49 pid:25896 Workerman[server2.php] stopping ...
+2023-04-19 10:20:49 pid:25896 Workerman[server2.php] has been stopped
+2023-04-19 10:20:52 pid:25905 Workerman[server2.php] start in DEBUG mode
+2023-04-19 10:27:10 pid:25905 Workerman[server2.php] stopping ...
+2023-04-19 10:27:10 pid:25905 Workerman[server2.php] has been stopped
+2023-04-19 10:27:15 pid:25913 Workerman[server2.php] start in DEBUG mode
+2023-04-19 10:28:11 pid:25913 Workerman[server2.php] stopping ...
+2023-04-19 10:28:11 pid:25913 Workerman[server2.php] stopping ...
+2023-04-19 10:28:11 pid:25913 Workerman[server2.php] has been stopped
+2023-04-19 14:19:56 pid:26549 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:21:48 pid:26549 Workerman[server2.php] stopping ...
+2023-04-19 14:21:48 pid:26549 Workerman[server2.php] has been stopped
+2023-04-19 14:21:51 pid:26614 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:22:29 pid:26614 Workerman[server2.php] stopping ...
+2023-04-19 14:22:29 pid:26614 Workerman[server2.php] has been stopped
+2023-04-19 14:22:31 pid:26622 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:23:34 pid:26622 Workerman[server2.php] stopping ...
+2023-04-19 14:23:34 pid:26622 Workerman[server2.php] has been stopped
+2023-04-19 14:23:36 pid:26627 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:24:06 pid:26627 Workerman[server2.php] stopping ...
+2023-04-19 14:24:06 pid:26627 Workerman[server2.php] has been stopped
+2023-04-19 14:24:08 pid:26633 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:28:21 pid:26633 Workerman[server2.php] stopping ...
+2023-04-19 14:28:21 pid:26633 Workerman[server2.php] has been stopped
+2023-04-19 14:28:23 pid:26638 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:40:20 pid:26638 Workerman[server2.php] stopping ...
+2023-04-19 14:40:20 pid:26638 Workerman[server2.php] has been stopped
+2023-04-19 14:40:22 pid:26697 Workerman[server2.php] start in DEBUG mode
+2023-04-19 14:41:44 pid:26697 Workerman[server2.php] stopping ...
+2023-04-19 14:41:44 pid:26697 Workerman[server2.php] has been stopped
+2023-04-19 14:41:45 pid:26702 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:11:45 pid:26702 Workerman[server2.php] stopping ...
+2023-04-19 15:11:45 pid:26702 Workerman[server2.php] has been stopped
+2023-04-19 15:11:47 pid:26763 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:12:19 pid:26763 Workerman[server2.php] stopping ...
+2023-04-19 15:12:19 pid:26763 Workerman[server2.php] has been stopped
+2023-04-19 15:12:21 pid:26768 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:13:04 pid:26768 Workerman[server2.php] stopping ...
+2023-04-19 15:13:04 pid:26768 Workerman[server2.php] has been stopped
+2023-04-19 15:13:06 pid:26773 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:15:41 pid:26773 Workerman[server2.php] stopping ...
+2023-04-19 15:15:41 pid:26773 Workerman[server2.php] has been stopped
+2023-04-19 15:15:44 pid:26780 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:19:45 pid:26780 Workerman[server2.php] stopping ...
+2023-04-19 15:19:45 pid:26780 Workerman[server2.php] has been stopped
+2023-04-19 15:19:47 pid:26792 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:22:57 pid:26792 Workerman[server2.php] stopping ...
+2023-04-19 15:22:57 pid:26792 Workerman[server2.php] has been stopped
+2023-04-19 15:22:58 pid:26798 Workerman[server2.php] start in DEBUG mode
+2023-04-19 15:59:03 pid:26798 Workerman[server2.php] stopping ...
+2023-04-19 15:59:03 pid:26798 Workerman[server2.php] stopping ...
+2023-04-19 15:59:03 pid:26798 Workerman[server2.php] has been stopped
+2023-04-19 16:38:01 pid:27018 Workerman[server2.php] start in DEBUG mode
+2023-04-19 16:39:39 pid:27018 Workerman[server2.php] stopping ...
+2023-04-19 16:39:39 pid:27018 Workerman[server2.php] has been stopped
+2023-04-19 16:39:40 pid:27134 Workerman[server2.php] start in DEBUG mode
+2023-04-19 16:41:12 pid:27134 Workerman[server2.php] stopping ...
+2023-04-19 16:41:12 pid:27134 Workerman[server2.php] has been stopped
+2023-04-19 16:41:15 pid:27139 Workerman[server2.php] start in DEBUG mode
+2023-04-19 16:44:37 pid:27139 Workerman[server2.php] stopping ...
+2023-04-19 16:44:37 pid:27139 Workerman[server2.php] has been stopped
+2023-04-19 16:44:39 pid:27146 Workerman[server2.php] start in DEBUG mode
+2023-04-19 16:45:16 pid:27146 Workerman[server2.php] stopping ...
+2023-04-19 16:45:16 pid:27146 Workerman[server2.php] has been stopped
+2023-04-19 16:45:17 pid:27149 Workerman[server2.php] start in DEBUG mode
+2023-04-19 16:45:45 pid:27149 Workerman[server2.php] stopping ...
+2023-04-19 16:45:45 pid:27149 Workerman[server2.php] has been stopped
+2023-04-19 16:45:47 pid:27152 Workerman[server2.php] start in DEBUG mode
+2023-04-19 16:46:49 pid:27152 Workerman[server2.php] stopping ...
+2023-04-19 16:46:49 pid:27152 Workerman[server2.php] has been stopped
+2023-04-19 16:47:12 pid:27156 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:05:26 pid:27156 Workerman[server2.php] stopping ...
+2023-04-19 17:05:26 pid:27156 Workerman[server2.php] has been stopped
+2023-04-19 17:05:27 pid:27161 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:07:53 pid:27161 Workerman[server2.php] stopping ...
+2023-04-19 17:07:53 pid:27161 Workerman[server2.php] has been stopped
+2023-04-19 17:07:55 pid:27165 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:09:05 pid:27165 Workerman[server2.php] stopping ...
+2023-04-19 17:09:05 pid:27165 Workerman[server2.php] has been stopped
+2023-04-19 17:09:09 pid:27217 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:10:57 pid:27217 Workerman[server2.php] stopping ...
+2023-04-19 17:10:57 pid:27217 Workerman[server2.php] has been stopped
+2023-04-19 17:10:58 pid:27220 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:18:35 pid:27220 Workerman[server2.php] stopping ...
+2023-04-19 17:18:35 pid:27220 Workerman[server2.php] has been stopped
+2023-04-19 17:18:37 pid:27229 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:20:45 pid:27229 Workerman[server2.php] stopping ...
+2023-04-19 17:20:45 pid:27229 Workerman[server2.php] has been stopped
+2023-04-19 17:20:47 pid:27232 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:26:57 pid:27232 Workerman[server2.php] stopping ...
+2023-04-19 17:26:57 pid:27232 Workerman[server2.php] has been stopped
+2023-04-19 17:26:59 pid:27239 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:29:49 pid:27239 Workerman[server2.php] stopping ...
+2023-04-19 17:29:49 pid:27239 Workerman[server2.php] has been stopped
+2023-04-19 17:29:50 pid:27242 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:30:16 pid:27242 Workerman[server2.php] stopping ...
+2023-04-19 17:30:16 pid:27242 Workerman[server2.php] has been stopped
+2023-04-19 17:30:17 pid:27245 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:32:26 pid:27245 Workerman[server2.php] stopping ...
+2023-04-19 17:32:27 pid:27245 Workerman[server2.php] has been stopped
+2023-04-19 17:32:28 pid:27250 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:32:46 pid:27250 Workerman[server2.php] stopping ...
+2023-04-19 17:32:46 pid:27250 Workerman[server2.php] has been stopped
+2023-04-19 17:32:48 pid:27253 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:35:08 pid:27253 Workerman[server2.php] stopping ...
+2023-04-19 17:35:08 pid:27253 Workerman[server2.php] has been stopped
+2023-04-19 17:35:11 pid:27257 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:36:36 pid:27257 Workerman[server2.php] stopping ...
+2023-04-19 17:36:36 pid:27257 Workerman[server2.php] has been stopped
+2023-04-19 17:37:48 pid:27263 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:38:27 pid:27263 Workerman[server2.php] stopping ...
+2023-04-19 17:38:27 pid:27263 Workerman[server2.php] has been stopped
+2023-04-19 17:38:38 pid:27266 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:39:17 pid:27266 Workerman[server2.php] stopping ...
+2023-04-19 17:39:17 pid:27266 Workerman[server2.php] has been stopped
+2023-04-19 17:39:19 pid:27319 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:40:19 pid:27319 Workerman[server2.php] stopping ...
+2023-04-19 17:40:19 pid:27319 Workerman[server2.php] has been stopped
+2023-04-19 17:40:21 pid:27322 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:40:57 pid:27322 Workerman[server2.php] stopping ...
+2023-04-19 17:40:57 pid:27322 Workerman[server2.php] has been stopped
+2023-04-19 17:41:00 pid:27325 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:41:10 pid:27325 Workerman[server2.php] stopping ...
+2023-04-19 17:41:10 pid:27325 Workerman[server2.php] has been stopped
+2023-04-19 17:41:12 pid:27328 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:41:44 pid:27328 Workerman[server2.php] stopping ...
+2023-04-19 17:41:44 pid:27328 Workerman[server2.php] has been stopped
+2023-04-19 17:41:47 pid:27331 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:43:21 pid:27331 Workerman[server2.php] stopping ...
+2023-04-19 17:43:21 pid:27331 Workerman[server2.php] has been stopped
+2023-04-19 17:43:23 pid:27345 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:53:30 pid:27345 Workerman[server2.php] stopping ...
+2023-04-19 17:53:30 pid:27345 Workerman[server2.php] has been stopped
+2023-04-19 17:53:32 pid:27350 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:56:31 pid:27350 Workerman[server2.php] stopping ...
+2023-04-19 17:56:31 pid:27350 Workerman[server2.php] has been stopped
+2023-04-19 17:56:33 pid:27354 Workerman[server2.php] start in DEBUG mode
+2023-04-19 17:58:41 pid:27354 Workerman[server2.php] stopping ...
+2023-04-19 17:58:41 pid:27354 Workerman[server2.php] has been stopped
+2023-04-19 18:26:07 pid:27509 Workerman[server2.php] start in DEBUG mode
+2023-04-19 18:28:08 pid:27509 Workerman[server2.php] stopping ...
+2023-04-19 18:28:08 pid:27509 Workerman[server2.php] has been stopped
+2023-04-19 18:28:10 pid:27512 Workerman[server2.php] start in DEBUG mode
+2023-04-19 18:28:17 pid:27512 Workerman[server2.php] stopping ...
+2023-04-19 18:28:17 pid:27512 Workerman[server2.php] has been stopped
+2023-04-19 18:28:19 pid:27515 Workerman[server2.php] start in DEBUG mode
+2023-04-19 18:33:44 pid:27515 Workerman[server2.php] stopping ...
+2023-04-19 18:33:44 pid:27515 Workerman[server2.php] has been stopped
+2023-04-19 18:33:53 pid:27520 Workerman[server2.php] start in DEBUG mode
+2023-04-19 18:34:37 pid:27520 Workerman[server2.php] stopping ...
+2023-04-19 18:34:37 pid:27520 Workerman[server2.php] has been stopped
+2023-04-19 18:34:39 pid:27523 Workerman[server2.php] start in DEBUG mode
+2023-04-19 18:39:53 pid:27523 Workerman[server2.php] stopping ...
+2023-04-19 18:39:53 pid:27523 Workerman[server2.php] has been stopped
+2023-04-19 18:39:55 pid:27576 Workerman[server2.php] start in DEBUG mode
+2023-04-19 18:47:01 pid:27576 Workerman[server2.php] stopping ...
+2023-04-19 18:47:01 pid:27576 Workerman[server2.php] has been stopped
+2023-04-19 18:47:46 pid:27643 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:07:33 pid:27643 Workerman[server2.php] stopping ...
+2023-04-19 19:07:33 pid:27643 Workerman[server2.php] has been stopped
+2023-04-19 19:07:35 pid:27651 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:07:52 pid:27651 Workerman[server2.php] stopping ...
+2023-04-19 19:07:52 pid:27651 Workerman[server2.php] stopping ...
+2023-04-19 19:07:52 pid:27651 Workerman[server2.php] has been stopped
+2023-04-19 19:09:26 pid:27773 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:09:48 pid:27773 Workerman[server2.php] stopping ...
+2023-04-19 19:09:48 pid:27773 Workerman[server2.php] has been stopped
+2023-04-19 19:09:51 pid:27776 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:10:33 pid:27776 Workerman[server2.php] stopping ...
+2023-04-19 19:10:34 pid:27776 Workerman[server2.php] has been stopped
+2023-04-19 19:10:35 pid:27779 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:12:30 pid:27779 Workerman[server2.php] stopping ...
+2023-04-19 19:12:30 pid:27779 Workerman[server2.php] has been stopped
+2023-04-19 19:12:32 pid:27782 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:15:15 pid:27782 Workerman[server2.php] stopping ...
+2023-04-19 19:15:15 pid:27782 Workerman[server2.php] has been stopped
+2023-04-19 19:15:16 pid:27789 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:15:29 pid:27789 Workerman[server2.php] stopping ...
+2023-04-19 19:15:29 pid:27789 Workerman[server2.php] has been stopped
+2023-04-19 19:15:30 pid:27792 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:17:49 pid:27792 Workerman[server2.php] stopping ...
+2023-04-19 19:17:49 pid:27792 Workerman[server2.php] has been stopped
+2023-04-19 19:17:51 pid:27798 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:21:19 pid:27798 Workerman[server2.php] stopping ...
+2023-04-19 19:21:19 pid:27798 Workerman[server2.php] has been stopped
+2023-04-19 19:21:21 pid:27801 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:23:01 pid:27801 Workerman[server2.php] stopping ...
+2023-04-19 19:23:01 pid:27801 Workerman[server2.php] has been stopped
+2023-04-19 19:23:03 pid:27805 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:30:05 pid:27805 Workerman[server2.php] stopping ...
+2023-04-19 19:30:05 pid:27805 Workerman[server2.php] has been stopped
+2023-04-19 19:30:07 pid:27810 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:36:27 pid:27810 Workerman[server2.php] stopping ...
+2023-04-19 19:36:27 pid:27810 Workerman[server2.php] has been stopped
+2023-04-19 19:36:31 pid:27814 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:37:01 pid:27814 Workerman[server2.php] stopping ...
+2023-04-19 19:37:01 pid:27814 Workerman[server2.php] has been stopped
+2023-04-19 19:37:02 pid:27818 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:39:29 pid:27818 Workerman[server2.php] stopping ...
+2023-04-19 19:39:29 pid:27818 Workerman[server2.php] has been stopped
+2023-04-19 19:39:32 pid:27872 Workerman[server2.php] start in DEBUG mode
+2023-04-19 19:40:49 pid:27872 Workerman[server2.php] stopping ...
+2023-04-19 19:40:49 pid:27872 Workerman[server2.php] has been stopped
+2023-04-19 19:40:52 pid:27875 Workerman[server2.php] start in DEBUG mode
+2023-04-19 20:23:51 pid:27875 Workerman[server2.php] stopping ...
+2023-04-19 20:23:51 pid:27875 Workerman[server2.php] stopping ...
+2023-04-19 20:23:51 pid:27875 Workerman[server2.php] has been stopped
+2023-04-20 06:12:49 pid:29297 Workerman[server2.php] start in DEBUG mode
+2023-04-20 06:32:38 pid:29297 Workerman[server2.php] stopping ...
+2023-04-20 06:32:38 pid:29297 Workerman[server2.php] has been stopped
+2023-04-20 06:32:41 pid:29451 Workerman[server2.php] start in DEBUG mode
+2023-04-20 06:34:02 pid:29451 Workerman[server2.php] stopping ...
+2023-04-20 06:34:02 pid:29451 Workerman[server2.php] has been stopped
+2023-04-20 06:34:04 pid:29456 Workerman[server2.php] start in DEBUG mode
+2023-04-20 06:41:33 pid:29456 Workerman[server2.php] stopping ...
+2023-04-20 06:41:33 pid:29456 Workerman[server2.php] has been stopped
+2023-04-20 06:41:35 pid:29510 Workerman[server2.php] start in DEBUG mode
+2023-04-20 06:46:43 pid:29510 Workerman[server2.php] stopping ...
+2023-04-20 06:46:43 pid:29510 Workerman[server2.php] has been stopped
+2023-04-20 06:46:46 pid:29515 Workerman[server2.php] start in DEBUG mode
+2023-04-20 06:50:26 pid:29515 Workerman[server2.php] stopping ...
+2023-04-20 06:50:26 pid:29515 Workerman[server2.php] has been stopped
+2023-04-20 06:50:28 pid:29518 Workerman[server2.php] start in DEBUG mode
+2023-04-20 07:02:52 pid:29518 Workerman[server2.php] stopping ...
+2023-04-20 07:02:52 pid:29518 Workerman[server2.php] has been stopped
+2023-04-20 07:02:56 pid:29524 Workerman[server2.php] start in DEBUG mode
+2023-04-20 07:03:38 pid:29524 Workerman[server2.php] stopping ...
+2023-04-20 07:03:38 pid:29524 Workerman[server2.php] has been stopped
+2023-04-20 07:08:03 pid:29528 Workerman[server2.php] start in DEBUG mode
+2023-04-20 07:08:08 pid:29530 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-20 07:08:08 pid:29528 worker[none:29530] exit with status 64000
+2023-04-20 07:15:58 pid:29528 Workerman[server2.php] stopping ...
+2023-04-20 07:15:58 pid:29528 Workerman[server2.php] has been stopped
+2023-04-25 13:44:33 pid:45788 Workerman[server2.php] start in DEBUG mode
+2023-04-25 13:44:36 pid:45790 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 13:44:36 pid:45788 worker[none:45790] exit with status 64000
+2023-04-25 14:14:45 pid:45788 Workerman[server2.php] stopping ...
+2023-04-25 14:14:45 pid:45788 Workerman[server2.php] has been stopped
+2023-04-25 14:20:55 pid:45916 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:20:58 pid:45917 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:20:58 pid:45916 worker[none:45917] exit with status 64000
+2023-04-25 14:30:30 pid:45916 Workerman[server2.php] stopping ...
+2023-04-25 14:30:30 pid:45916 Workerman[server2.php] has been stopped
+2023-04-25 14:30:40 pid:45987 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:30:45 pid:45988 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:30:45 pid:45987 worker[none:45988] exit with status 64000
+2023-04-25 14:31:18 pid:45987 Workerman[server2.php] stopping ...
+2023-04-25 14:31:18 pid:45987 Workerman[server2.php] has been stopped
+2023-04-25 14:31:22 pid:45991 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:31:24 pid:45993 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:31:24 pid:45991 worker[none:45993] exit with status 64000
+2023-04-25 14:31:36 pid:45991 Workerman[server2.php] stopping ...
+2023-04-25 14:31:36 pid:45991 Workerman[server2.php] has been stopped
+2023-04-25 14:31:43 pid:45995 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:31:45 pid:45996 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:31:45 pid:45995 worker[none:45996] exit with status 64000
+2023-04-25 14:34:34 pid:46072 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:34:34 pid:46072 Workerman[server2.php] already running
+2023-04-25 14:34:47 pid:46073 Workerman[server2.php] stop 
+2023-04-25 14:34:47 pid:46073 Workerman[server2.php] is stopping ...
+2023-04-25 14:34:47 pid:45995 Workerman[server2.php] stopping ...
+2023-04-25 14:34:48 pid:45995 Workerman[server2.php] has been stopped
+2023-04-25 14:34:48 pid:46073 Workerman[server2.php] stop success
+2023-04-25 14:34:51 pid:46074 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:35:07 pid:46076 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:35:07 pid:46074 worker[none:46076] exit with status 64000
+2023-04-25 14:35:14 pid:46074 Workerman[server2.php] stopping ...
+2023-04-25 14:35:14 pid:46074 Workerman[server2.php] has been stopped
+2023-04-25 14:36:48 pid:46153 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:36:51 pid:46154 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:36:51 pid:46153 worker[none:46154] exit with status 64000
+2023-04-25 14:37:37 pid:46153 Workerman[server2.php] stopping ...
+2023-04-25 14:37:37 pid:46153 Workerman[server2.php] has been stopped
+2023-04-25 14:37:47 pid:46211 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:37:49 pid:46212 Error: Attempt to assign property "clientId" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:94
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:37:49 pid:46211 worker[none:46212] exit with status 64000
+2023-04-25 14:41:49 pid:46211 Workerman[server2.php] stopping ...
+2023-04-25 14:41:49 pid:46211 Workerman[server2.php] has been stopped
+2023-04-25 14:41:56 pid:46266 Workerman[server2.php] start in DEBUG mode
+2023-04-25 14:41:57 pid:46267 Error: Attempt to assign property "onWebSocketConnect" on null in /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php:97
+Stack trace:
+#0 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(2570): {closure}()
+#1 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Events/Select.php(311): Workerman\Worker->acceptConnection()
+#2 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1629): Workerman\Events\Select->loop()
+#3 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1423): Workerman\Worker::forkOneWorkerForLinux()
+#4 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(1397): Workerman\Worker::forkWorkersForLinux()
+#5 /var/www/site139.webte.fei.stuba.sk/pongGame/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#6 /var/www/site139.webte.fei.stuba.sk/pongGame/server2.php(144): Workerman\Worker::runAll()
+#7 {main}
+2023-04-25 14:41:57 pid:46266 worker[none:46267] exit with status 64000
+2023-04-25 14:42:31 pid:46266 Workerman[server2.php] stopping ...
+2023-04-25 14:42:31 pid:46266 Workerman[server2.php] has been stopped
+2023-04-25 14:42:40 pid:46270 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:02:21 pid:46270 Workerman[server2.php] stopping ...
+2023-04-25 15:02:21 pid:46270 Workerman[server2.php] has been stopped
+2023-04-25 15:02:26 pid:46278 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:06:08 pid:46278 Workerman[server2.php] stopping ...
+2023-04-25 15:06:08 pid:46278 Workerman[server2.php] has been stopped
+2023-04-25 15:06:13 pid:46283 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:07:08 pid:46283 Workerman[server2.php] stopping ...
+2023-04-25 15:07:08 pid:46283 Workerman[server2.php] has been stopped
+2023-04-25 15:07:53 pid:46286 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:09:08 pid:46286 Workerman[server2.php] stopping ...
+2023-04-25 15:09:08 pid:46286 Workerman[server2.php] has been stopped
+2023-04-25 15:13:44 pid:46340 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:14:08 pid:46340 Workerman[server2.php] stopping ...
+2023-04-25 15:14:08 pid:46340 Workerman[server2.php] has been stopped
+2023-04-25 15:14:10 pid:46346 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:14:51 pid:46346 Workerman[server2.php] stopping ...
+2023-04-25 15:14:51 pid:46346 Workerman[server2.php] has been stopped
+2023-04-25 15:14:53 pid:46351 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:15:30 pid:46351 Workerman[server2.php] stopping ...
+2023-04-25 15:15:30 pid:46351 Workerman[server2.php] has been stopped
+2023-04-25 15:15:33 pid:46357 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:15:56 pid:46357 Workerman[server2.php] stopping ...
+2023-04-25 15:15:56 pid:46357 Workerman[server2.php] has been stopped
+2023-04-25 15:16:17 pid:46362 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:19:06 pid:46362 Workerman[server2.php] stopping ...
+2023-04-25 15:19:06 pid:46362 Workerman[server2.php] has been stopped
+2023-04-25 15:19:08 pid:46381 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:25:05 pid:46381 Workerman[server2.php] stopping ...
+2023-04-25 15:25:05 pid:46381 Workerman[server2.php] has been stopped
+2023-04-25 15:25:10 pid:46390 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:26:42 pid:46491 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:26:42 pid:46491 Workerman[server2.php] already running
+2023-04-25 15:26:47 pid:46492 Workerman[server2.php] stop 
+2023-04-25 15:26:47 pid:46492 Workerman[server2.php] is stopping ...
+2023-04-25 15:26:47 pid:46390 Workerman[server2.php] stopping ...
+2023-04-25 15:26:48 pid:46390 Workerman[server2.php] has been stopped
+2023-04-25 15:26:48 pid:46492 Workerman[server2.php] stop success
+2023-04-25 15:26:53 pid:46493 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:30:46 pid:46493 Workerman[server2.php] stopping ...
+2023-04-25 15:30:46 pid:46493 Workerman[server2.php] has been stopped
+2023-04-25 15:30:50 pid:46601 Workerman[server2.php] start in DEBUG mode
+2023-04-25 15:32:06 pid:46601 Workerman[server2.php] stopping ...
+2023-04-25 15:32:06 pid:46601 Workerman[server2.php] has been stopped
+2023-04-25 15:32:08 pid:46607 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:27:05 pid:46990 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:27:05 pid:46990 Workerman[server2.php] already running
+2023-04-25 17:27:10 pid:46991 Workerman[server2.php] stop 
+2023-04-25 17:27:10 pid:46991 Workerman[server2.php] is stopping ...
+2023-04-25 17:27:10 pid:46607 Workerman[server2.php] stopping ...
+2023-04-25 17:27:10 pid:46607 Workerman[server2.php] stopping ...
+2023-04-25 17:27:10 pid:46607 worker[none:46610] exit with status 1
+2023-04-25 17:27:10 pid:46607 worker[none:46611] exit with status 1
+2023-04-25 17:27:10 pid:46607 Workerman[server2.php] has been stopped
+2023-04-25 17:27:10 pid:46991 Workerman[server2.php] stop success
+2023-04-25 17:27:12 pid:46993 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:29:05 pid:46993 Workerman[server2.php] stopping ...
+2023-04-25 17:29:05 pid:46993 Workerman[server2.php] has been stopped
+2023-04-25 17:29:07 pid:47001 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:30:51 pid:47001 Workerman[server2.php] stopping ...
+2023-04-25 17:30:51 pid:47001 Workerman[server2.php] has been stopped
+2023-04-25 17:30:53 pid:47006 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:37:54 pid:47006 Workerman[server2.php] stopping ...
+2023-04-25 17:37:54 pid:47006 Workerman[server2.php] has been stopped
+2023-04-25 17:37:56 pid:47013 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:46:57 pid:47013 Workerman[server2.php] stopping ...
+2023-04-25 17:46:57 pid:47013 Workerman[server2.php] has been stopped
+2023-04-25 17:46:59 pid:47071 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:47:39 pid:47071 Workerman[server2.php] stopping ...
+2023-04-25 17:47:39 pid:47071 Workerman[server2.php] has been stopped
+2023-04-25 17:47:43 pid:47076 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:48:16 pid:47076 Workerman[server2.php] stopping ...
+2023-04-25 17:48:16 pid:47076 Workerman[server2.php] has been stopped
+2023-04-25 17:48:18 pid:47081 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:49:11 pid:47081 Workerman[server2.php] stopping ...
+2023-04-25 17:49:11 pid:47081 Workerman[server2.php] has been stopped
+2023-04-25 17:49:13 pid:47086 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:50:51 pid:47086 Workerman[server2.php] stopping ...
+2023-04-25 17:50:51 pid:47086 Workerman[server2.php] has been stopped
+2023-04-25 17:50:52 pid:47092 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:52:41 pid:47092 Workerman[server2.php] stopping ...
+2023-04-25 17:52:41 pid:47092 Workerman[server2.php] has been stopped
+2023-04-25 17:52:43 pid:47097 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:55:14 pid:47097 Workerman[server2.php] stopping ...
+2023-04-25 17:55:14 pid:47097 Workerman[server2.php] has been stopped
+2023-04-25 17:55:15 pid:47103 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:55:47 pid:47103 Workerman[server2.php] stopping ...
+2023-04-25 17:55:47 pid:47103 Workerman[server2.php] has been stopped
+2023-04-25 17:55:48 pid:47109 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:57:51 pid:47109 Workerman[server2.php] stopping ...
+2023-04-25 17:57:51 pid:47109 Workerman[server2.php] has been stopped
+2023-04-25 17:57:53 pid:47114 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:59:03 pid:47114 Workerman[server2.php] stopping ...
+2023-04-25 17:59:03 pid:47114 Workerman[server2.php] has been stopped
+2023-04-25 17:59:03 pid:47119 Workerman[server2.php] start in DEBUG mode
+2023-04-25 17:59:46 pid:47119 Workerman[server2.php] stopping ...
+2023-04-25 17:59:46 pid:47119 Workerman[server2.php] has been stopped
+2023-04-25 17:59:47 pid:47124 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:07:15 pid:47124 Workerman[server2.php] stopping ...
+2023-04-25 18:07:15 pid:47124 Workerman[server2.php] has been stopped
+2023-04-25 18:07:16 pid:47165 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:11:10 pid:47165 Workerman[server2.php] stopping ...
+2023-04-25 18:11:10 pid:47165 Workerman[server2.php] has been stopped
+2023-04-25 18:11:12 pid:47221 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:11:45 pid:47221 Workerman[server2.php] stopping ...
+2023-04-25 18:11:45 pid:47221 Workerman[server2.php] has been stopped
+2023-04-25 18:11:49 pid:47226 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:20:10 pid:47226 Workerman[server2.php] stopping ...
+2023-04-25 18:20:10 pid:47226 Workerman[server2.php] has been stopped
+2023-04-25 18:20:19 pid:47237 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:21:24 pid:47237 Workerman[server2.php] stopping ...
+2023-04-25 18:21:24 pid:47237 Workerman[server2.php] has been stopped
+2023-04-25 18:21:25 pid:47242 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:21:56 pid:47242 Workerman[server2.php] stopping ...
+2023-04-25 18:21:56 pid:47242 Workerman[server2.php] has been stopped
+2023-04-25 18:21:58 pid:47247 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:23:06 pid:47247 Workerman[server2.php] stopping ...
+2023-04-25 18:23:06 pid:47247 Workerman[server2.php] has been stopped
+2023-04-25 18:23:07 pid:47253 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:23:41 pid:47253 Workerman[server2.php] stopping ...
+2023-04-25 18:23:42 pid:47253 Workerman[server2.php] has been stopped
+2023-04-25 18:23:48 pid:47260 Workerman[server2.php] start in DEBUG mode
+2023-04-25 18:30:27 pid:47260 Workerman[server2.php] stopping ...
+2023-04-25 18:30:27 pid:47260 Workerman[server2.php] has been stopped
+2023-04-25 18:30:29 pid:47265 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:05:21 pid:47613 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:05:21 pid:47613 Workerman[server2.php] already running
+2023-04-25 19:05:26 pid:47614 Workerman[server2.php] stop 
+2023-04-25 19:05:26 pid:47614 Workerman[server2.php] is stopping ...
+2023-04-25 19:05:26 pid:47265 Workerman[server2.php] stopping ...
+2023-04-25 19:05:27 pid:47265 Workerman[server2.php] has been stopped
+2023-04-25 19:05:27 pid:47614 Workerman[server2.php] stop success
+2023-04-25 19:05:29 pid:47615 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:31:26 pid:47615 Workerman[server2.php] stopping ...
+2023-04-25 19:31:26 pid:47615 Workerman[server2.php] has been stopped
+2023-04-25 19:31:27 pid:47680 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:32:06 pid:47680 Workerman[server2.php] stopping ...
+2023-04-25 19:32:06 pid:47680 Workerman[server2.php] has been stopped
+2023-04-25 19:32:07 pid:47683 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:35:44 pid:47683 Workerman[server2.php] stopping ...
+2023-04-25 19:35:44 pid:47683 Workerman[server2.php] has been stopped
+2023-04-25 19:35:45 pid:47686 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:36:20 pid:47686 Workerman[server2.php] stopping ...
+2023-04-25 19:36:20 pid:47686 Workerman[server2.php] has been stopped
+2023-04-25 19:36:21 pid:47688 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:36:58 pid:47688 Workerman[server2.php] stopping ...
+2023-04-25 19:36:58 pid:47688 Workerman[server2.php] has been stopped
+2023-04-25 19:37:00 pid:47690 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:38:23 pid:47690 Workerman[server2.php] stopping ...
+2023-04-25 19:38:23 pid:47690 Workerman[server2.php] has been stopped
+2023-04-25 19:38:24 pid:47692 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:38:53 pid:47692 Workerman[server2.php] stopping ...
+2023-04-25 19:38:53 pid:47692 Workerman[server2.php] has been stopped
+2023-04-25 19:38:55 pid:47694 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:39:21 pid:47694 Workerman[server2.php] stopping ...
+2023-04-25 19:39:21 pid:47694 Workerman[server2.php] has been stopped
+2023-04-25 19:39:22 pid:47746 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:39:35 pid:47746 Workerman[server2.php] stopping ...
+2023-04-25 19:39:35 pid:47746 Workerman[server2.php] has been stopped
+2023-04-25 19:39:36 pid:47749 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:39:43 pid:47749 Workerman[server2.php] stopping ...
+2023-04-25 19:39:43 pid:47749 Workerman[server2.php] has been stopped
+2023-04-25 19:39:44 pid:47751 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:39:52 pid:47751 Workerman[server2.php] stopping ...
+2023-04-25 19:39:52 pid:47751 Workerman[server2.php] has been stopped
+2023-04-25 19:39:53 pid:47753 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:40:02 pid:47753 Workerman[server2.php] stopping ...
+2023-04-25 19:40:02 pid:47753 Workerman[server2.php] has been stopped
+2023-04-25 19:40:03 pid:47755 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:41:01 pid:47755 Workerman[server2.php] stopping ...
+2023-04-25 19:41:01 pid:47755 Workerman[server2.php] has been stopped
+2023-04-25 19:41:02 pid:47757 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:41:32 pid:47757 Workerman[server2.php] stopping ...
+2023-04-25 19:41:32 pid:47757 Workerman[server2.php] has been stopped
+2023-04-25 19:42:41 pid:47760 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:43:24 pid:47760 Workerman[server2.php] stopping ...
+2023-04-25 19:43:24 pid:47760 Workerman[server2.php] has been stopped
+2023-04-25 19:43:25 pid:47762 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:44:36 pid:47762 Workerman[server2.php] stopping ...
+2023-04-25 19:44:36 pid:47762 Workerman[server2.php] has been stopped
+2023-04-25 19:45:50 pid:47769 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:47:08 pid:47769 Workerman[server2.php] stopping ...
+2023-04-25 19:47:08 pid:47769 Workerman[server2.php] has been stopped
+2023-04-25 19:47:09 pid:47771 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:50:10 pid:47771 Workerman[server2.php] stopping ...
+2023-04-25 19:50:10 pid:47771 Workerman[server2.php] has been stopped
+2023-04-25 19:50:11 pid:47773 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:50:30 pid:47773 Workerman[server2.php] stopping ...
+2023-04-25 19:50:31 pid:47773 Workerman[server2.php] has been stopped
+2023-04-25 19:50:31 pid:47776 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:50:47 pid:47776 Workerman[server2.php] stopping ...
+2023-04-25 19:50:47 pid:47776 Workerman[server2.php] has been stopped
+2023-04-25 19:50:47 pid:47778 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:53:14 pid:47778 Workerman[server2.php] stopping ...
+2023-04-25 19:53:14 pid:47778 Workerman[server2.php] has been stopped
+2023-04-25 19:53:14 pid:47780 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:53:28 pid:47780 Workerman[server2.php] stopping ...
+2023-04-25 19:53:28 pid:47780 Workerman[server2.php] has been stopped
+2023-04-25 19:53:28 pid:47782 Workerman[server2.php] start in DEBUG mode
+2023-04-25 19:53:42 pid:47782 Workerman[server2.php] stopping ...
+2023-04-25 19:53:42 pid:47782 Workerman[server2.php] has been stopped
+2023-04-25 19:53:42 pid:47785 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:00:19 pid:47785 Workerman[server2.php] stopping ...
+2023-04-25 20:00:19 pid:47785 Workerman[server2.php] has been stopped
+2023-04-25 20:00:58 pid:47788 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:01:30 pid:47788 Workerman[server2.php] stopping ...
+2023-04-25 20:01:30 pid:47788 Workerman[server2.php] has been stopped
+2023-04-25 20:06:34 pid:47888 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:10:16 pid:47888 Workerman[server2.php] stopping ...
+2023-04-25 20:10:16 pid:47888 Workerman[server2.php] has been stopped
+2023-04-25 20:10:17 pid:47939 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:10:32 pid:47939 Workerman[server2.php] stopping ...
+2023-04-25 20:10:32 pid:47939 Workerman[server2.php] has been stopped
+2023-04-25 20:10:32 pid:47941 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:11:14 pid:47941 Workerman[server2.php] stopping ...
+2023-04-25 20:11:14 pid:47941 Workerman[server2.php] has been stopped
+2023-04-25 20:11:44 pid:47944 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:12:19 pid:47944 Workerman[server2.php] stopping ...
+2023-04-25 20:12:19 pid:47944 Workerman[server2.php] has been stopped
+2023-04-25 20:12:20 pid:47946 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:12:36 pid:47946 Workerman[server2.php] stopping ...
+2023-04-25 20:12:36 pid:47946 Workerman[server2.php] has been stopped
+2023-04-25 20:13:17 pid:47948 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:18:47 pid:47948 Workerman[server2.php] stopping ...
+2023-04-25 20:18:47 pid:47948 Workerman[server2.php] has been stopped
+2023-04-25 20:18:48 pid:47956 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:19:14 pid:47956 Workerman[server2.php] stopping ...
+2023-04-25 20:19:14 pid:47956 Workerman[server2.php] has been stopped
+2023-04-25 20:19:15 pid:47958 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:19:47 pid:47958 Workerman[server2.php] stopping ...
+2023-04-25 20:19:47 pid:47958 Workerman[server2.php] has been stopped
+2023-04-25 20:19:48 pid:47960 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:20:01 pid:47960 Workerman[server2.php] stopping ...
+2023-04-25 20:20:01 pid:47960 Workerman[server2.php] has been stopped
+2023-04-25 20:20:54 pid:47962 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:21:32 pid:47962 Workerman[server2.php] stopping ...
+2023-04-25 20:21:32 pid:47962 Workerman[server2.php] has been stopped
+2023-04-25 20:21:34 pid:47964 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:21:48 pid:47964 Workerman[server2.php] stopping ...
+2023-04-25 20:21:48 pid:47964 Workerman[server2.php] has been stopped
+2023-04-25 20:21:49 pid:47966 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:22:03 pid:47966 Workerman[server2.php] stopping ...
+2023-04-25 20:22:03 pid:47966 Workerman[server2.php] has been stopped
+2023-04-25 20:22:04 pid:47969 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:22:29 pid:47969 Workerman[server2.php] stopping ...
+2023-04-25 20:22:29 pid:47969 Workerman[server2.php] has been stopped
+2023-04-25 20:22:30 pid:47972 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:23:29 pid:47972 Workerman[server2.php] stopping ...
+2023-04-25 20:23:29 pid:47972 Workerman[server2.php] has been stopped
+2023-04-25 20:23:30 pid:47974 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:23:43 pid:47974 Workerman[server2.php] stopping ...
+2023-04-25 20:23:43 pid:47974 Workerman[server2.php] has been stopped
+2023-04-25 20:23:44 pid:47977 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:23:58 pid:47977 Workerman[server2.php] stopping ...
+2023-04-25 20:23:58 pid:47977 Workerman[server2.php] has been stopped
+2023-04-25 20:23:59 pid:47979 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:24:39 pid:47979 Workerman[server2.php] stopping ...
+2023-04-25 20:24:39 pid:47979 Workerman[server2.php] has been stopped
+2023-04-25 20:24:41 pid:47981 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:24:56 pid:47981 Workerman[server2.php] stopping ...
+2023-04-25 20:24:56 pid:47981 Workerman[server2.php] has been stopped
+2023-04-25 20:24:57 pid:47983 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:25:34 pid:47983 Workerman[server2.php] stopping ...
+2023-04-25 20:25:34 pid:47983 Workerman[server2.php] has been stopped
+2023-04-25 20:29:15 pid:47986 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:31:26 pid:47986 Workerman[server2.php] stopping ...
+2023-04-25 20:31:27 pid:47986 Workerman[server2.php] has been stopped
+2023-04-25 20:31:28 pid:47988 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:31:52 pid:47988 Workerman[server2.php] stopping ...
+2023-04-25 20:31:52 pid:47988 Workerman[server2.php] has been stopped
+2023-04-25 20:31:54 pid:47990 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:32:07 pid:47990 Workerman[server2.php] stopping ...
+2023-04-25 20:32:07 pid:47990 Workerman[server2.php] has been stopped
+2023-04-25 20:32:07 pid:47992 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:33:46 pid:47992 Workerman[server2.php] stopping ...
+2023-04-25 20:33:46 pid:47992 Workerman[server2.php] has been stopped
+2023-04-25 20:33:47 pid:47995 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:34:20 pid:47995 Workerman[server2.php] stopping ...
+2023-04-25 20:34:20 pid:47995 Workerman[server2.php] has been stopped
+2023-04-25 20:34:20 pid:47997 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:35:20 pid:47997 Workerman[server2.php] stopping ...
+2023-04-25 20:35:20 pid:47997 Workerman[server2.php] has been stopped
+2023-04-25 20:35:21 pid:47999 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:35:30 pid:47999 Workerman[server2.php] stopping ...
+2023-04-25 20:35:30 pid:47999 Workerman[server2.php] has been stopped
+2023-04-25 20:36:01 pid:48001 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:36:22 pid:48001 Workerman[server2.php] stopping ...
+2023-04-25 20:36:22 pid:48001 Workerman[server2.php] has been stopped
+2023-04-25 20:41:22 pid:48052 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:42:27 pid:48052 Workerman[server2.php] stopping ...
+2023-04-25 20:42:27 pid:48052 Workerman[server2.php] has been stopped
+2023-04-25 20:42:28 pid:48054 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:48:19 pid:48054 Workerman[server2.php] stopping ...
+2023-04-25 20:48:19 pid:48054 Workerman[server2.php] has been stopped
+2023-04-25 20:48:25 pid:48059 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:50:08 pid:48059 Workerman[server2.php] stopping ...
+2023-04-25 20:50:08 pid:48059 Workerman[server2.php] has been stopped
+2023-04-25 20:50:09 pid:48062 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:50:59 pid:48062 Workerman[server2.php] stopping ...
+2023-04-25 20:50:59 pid:48062 Workerman[server2.php] has been stopped
+2023-04-25 20:51:00 pid:48064 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:51:56 pid:48064 Workerman[server2.php] stopping ...
+2023-04-25 20:51:56 pid:48064 Workerman[server2.php] has been stopped
+2023-04-25 20:51:57 pid:48066 Workerman[server2.php] start in DEBUG mode
+2023-04-25 20:52:19 pid:48066 Workerman[server2.php] stopping ...
+2023-04-25 20:52:19 pid:48066 Workerman[server2.php] has been stopped
+2023-04-26 11:08:51 pid:50035 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:22:06 pid:50035 Workerman[server2.php] stopping ...
+2023-04-26 11:22:06 pid:50035 Workerman[server2.php] has been stopped
+2023-04-26 11:22:07 pid:50170 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:22:35 pid:50170 Workerman[server2.php] stopping ...
+2023-04-26 11:22:35 pid:50170 Workerman[server2.php] has been stopped
+2023-04-26 11:22:36 pid:50173 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:23:27 pid:50173 Workerman[server2.php] stopping ...
+2023-04-26 11:23:27 pid:50173 Workerman[server2.php] has been stopped
+2023-04-26 11:23:28 pid:50175 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:23:46 pid:50175 Workerman[server2.php] stopping ...
+2023-04-26 11:23:47 pid:50175 Workerman[server2.php] has been stopped
+2023-04-26 11:23:47 pid:50178 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:24:38 pid:50178 Workerman[server2.php] stopping ...
+2023-04-26 11:24:38 pid:50178 Workerman[server2.php] has been stopped
+2023-04-26 11:24:39 pid:50180 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:25:28 pid:50180 Workerman[server2.php] stopping ...
+2023-04-26 11:25:28 pid:50180 Workerman[server2.php] has been stopped
+2023-04-26 11:25:29 pid:50182 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:26:53 pid:50182 Workerman[server2.php] stopping ...
+2023-04-26 11:26:53 pid:50182 Workerman[server2.php] has been stopped
+2023-04-26 11:26:54 pid:50184 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:27:20 pid:50184 Workerman[server2.php] stopping ...
+2023-04-26 11:27:20 pid:50184 Workerman[server2.php] has been stopped
+2023-04-26 11:27:21 pid:50187 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:28:48 pid:50187 Workerman[server2.php] stopping ...
+2023-04-26 11:28:48 pid:50187 Workerman[server2.php] has been stopped
+2023-04-26 11:28:51 pid:50189 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:29:23 pid:50189 Workerman[server2.php] stopping ...
+2023-04-26 11:29:23 pid:50189 Workerman[server2.php] stopping ...
+2023-04-26 11:29:25 pid:50189 Workerman[server2.php] stopping ...
+2023-04-26 11:29:25 pid:50189 worker[none:50190] exit with status 9
+2023-04-26 11:29:25 pid:50189 Workerman[server2.php] has been stopped
+2023-04-26 11:29:26 pid:50191 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:32:31 pid:50191 Workerman[server2.php] stopping ...
+2023-04-26 11:32:31 pid:50191 Workerman[server2.php] stopping ...
+2023-04-26 11:32:32 pid:50191 Workerman[server2.php] stopping ...
+2023-04-26 11:32:33 pid:50191 Workerman[server2.php] stopping ...
+2023-04-26 11:32:33 pid:50191 Workerman[server2.php] stopping ...
+2023-04-26 11:32:33 pid:50191 worker[none:50192] exit with status 9
+2023-04-26 11:32:33 pid:50191 Workerman[server2.php] has been stopped
+2023-04-26 11:32:34 pid:50193 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:33:05 pid:50193 Workerman[server2.php] stopping ...
+2023-04-26 11:33:05 pid:50193 Workerman[server2.php] has been stopped
+2023-04-26 11:33:53 pid:50197 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:35:42 pid:50197 Workerman[server2.php] stopping ...
+2023-04-26 11:35:42 pid:50197 Workerman[server2.php] has been stopped
+2023-04-26 11:35:43 pid:50199 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:35:59 pid:50199 Workerman[server2.php] stopping ...
+2023-04-26 11:35:59 pid:50199 Workerman[server2.php] has been stopped
+2023-04-26 11:35:59 pid:50201 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:36:25 pid:50201 Workerman[server2.php] stopping ...
+2023-04-26 11:36:26 pid:50201 Workerman[server2.php] has been stopped
+2023-04-26 11:36:26 pid:50203 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:39:30 pid:50203 Workerman[server2.php] stopping ...
+2023-04-26 11:39:30 pid:50203 Workerman[server2.php] has been stopped
+2023-04-26 11:39:31 pid:50255 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:40:14 pid:50255 Workerman[server2.php] stopping ...
+2023-04-26 11:40:14 pid:50255 Workerman[server2.php] has been stopped
+2023-04-26 11:40:15 pid:50257 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:41:17 pid:50257 Workerman[server2.php] stopping ...
+2023-04-26 11:41:17 pid:50257 Workerman[server2.php] has been stopped
+2023-04-26 11:41:17 pid:50259 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:42:49 pid:50259 Workerman[server2.php] stopping ...
+2023-04-26 11:42:49 pid:50259 Workerman[server2.php] has been stopped
+2023-04-26 11:42:49 pid:50261 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:44:15 pid:50261 Workerman[server2.php] stopping ...
+2023-04-26 11:44:15 pid:50261 Workerman[server2.php] has been stopped
+2023-04-26 11:44:17 pid:50265 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:48:21 pid:50265 Workerman[server2.php] stopping ...
+2023-04-26 11:48:21 pid:50265 Workerman[server2.php] has been stopped
+2023-04-26 11:48:22 pid:50267 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:48:42 pid:50267 Workerman[server2.php] stopping ...
+2023-04-26 11:48:42 pid:50267 Workerman[server2.php] has been stopped
+2023-04-26 11:48:43 pid:50269 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:49:16 pid:50269 Workerman[server2.php] stopping ...
+2023-04-26 11:49:16 pid:50269 Workerman[server2.php] has been stopped
+2023-04-26 11:49:17 pid:50271 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:52:10 pid:50271 Workerman[server2.php] stopping ...
+2023-04-26 11:52:10 pid:50271 Workerman[server2.php] has been stopped
+2023-04-26 11:52:11 pid:50273 Workerman[server2.php] start in DEBUG mode
+2023-04-26 11:54:25 pid:50273 Workerman[server2.php] stopping ...
+2023-04-26 11:54:25 pid:50273 Workerman[server2.php] has been stopped
+2023-04-26 11:54:26 pid:50276 Workerman[server2.php] start in DEBUG mode
+2023-04-26 12:51:47 pid:50276 Workerman[server2.php] stopping ...
+2023-04-26 12:51:47 pid:50276 Workerman[server2.php] has been stopped
+2023-04-26 12:51:47 pid:50392 Workerman[server2.php] start in DEBUG mode
+2023-04-26 12:55:17 pid:50392 Workerman[server2.php] stopping ...
+2023-04-26 12:55:17 pid:50392 Workerman[server2.php] has been stopped
+2023-04-26 12:55:18 pid:50395 Workerman[server2.php] start in DEBUG mode
+2023-04-26 12:56:00 pid:50395 Workerman[server2.php] stopping ...
+2023-04-26 12:56:00 pid:50395 Workerman[server2.php] has been stopped
+2023-04-26 13:11:27 pid:50602 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:11:52 pid:50602 Workerman[server2.php] stopping ...
+2023-04-26 13:11:52 pid:50602 Workerman[server2.php] has been stopped
+2023-04-26 13:11:53 pid:50604 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:20:50 pid:50604 Workerman[server2.php] stopping ...
+2023-04-26 13:20:50 pid:50604 Workerman[server2.php] has been stopped
+2023-04-26 13:20:51 pid:50612 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:22:11 pid:50612 Workerman[server2.php] stopping ...
+2023-04-26 13:22:11 pid:50612 Workerman[server2.php] has been stopped
+2023-04-26 13:22:12 pid:50615 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:25:55 pid:50615 Workerman[server2.php] stopping ...
+2023-04-26 13:25:55 pid:50615 Workerman[server2.php] has been stopped
+2023-04-26 13:25:58 pid:50618 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:27:06 pid:50618 Workerman[server2.php] stopping ...
+2023-04-26 13:27:06 pid:50618 Workerman[server2.php] has been stopped
+2023-04-26 13:27:08 pid:50620 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:35:07 pid:50620 Workerman[server2.php] stopping ...
+2023-04-26 13:35:07 pid:50620 Workerman[server2.php] has been stopped
+2023-04-26 13:35:10 pid:50623 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:36:14 pid:50623 Workerman[server2.php] stopping ...
+2023-04-26 13:36:14 pid:50623 Workerman[server2.php] has been stopped
+2023-04-26 13:36:16 pid:50625 Workerman[server2.php] start in DEBUG mode
+2023-04-26 13:59:03 pid:50625 Workerman[server2.php] stopping ...
+2023-04-26 13:59:03 pid:50625 Workerman[server2.php] has been stopped
+2023-04-26 13:59:05 pid:50683 Workerman[server2.php] start in DEBUG mode
+2023-04-26 14:02:41 pid:50683 Workerman[server2.php] stopping ...
+2023-04-26 14:02:41 pid:50683 Workerman[server2.php] has been stopped
+2023-04-26 14:02:42 pid:50685 Workerman[server2.php] start in DEBUG mode
+2023-04-26 14:03:44 pid:50685 Workerman[server2.php] stopping ...
+2023-04-26 14:03:44 pid:50685 Workerman[server2.php] has been stopped
+2023-04-26 14:03:45 pid:50688 Workerman[server2.php] start in DEBUG mode
+2023-04-26 14:04:21 pid:50688 Workerman[server2.php] stopping ...
+2023-04-26 14:04:21 pid:50688 Workerman[server2.php] has been stopped
+2023-04-26 14:04:22 pid:50690 Workerman[server2.php] start in DEBUG mode
+2023-04-26 14:45:32 pid:50690 Workerman[server2.php] stopping ...
+2023-04-26 14:45:32 pid:50690 Workerman[server2.php] stopping ...
+2023-04-26 14:45:32 pid:50690 Workerman[server2.php] has been stopped
+2023-04-26 15:02:59 pid:50978 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:04:24 pid:50978 Workerman[server2.php] stopping ...
+2023-04-26 15:04:24 pid:50978 Workerman[server2.php] has been stopped
+2023-04-26 15:04:25 pid:50981 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:05:30 pid:50981 Workerman[server2.php] stopping ...
+2023-04-26 15:05:30 pid:50981 Workerman[server2.php] has been stopped
+2023-04-26 15:05:30 pid:50983 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:06:14 pid:50983 Workerman[server2.php] stopping ...
+2023-04-26 15:06:14 pid:50983 Workerman[server2.php] has been stopped
+2023-04-26 15:06:16 pid:50985 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:06:46 pid:50985 Workerman[server2.php] stopping ...
+2023-04-26 15:06:46 pid:50985 Workerman[server2.php] has been stopped
+2023-04-26 15:06:47 pid:50987 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:07:04 pid:50987 Workerman[server2.php] stopping ...
+2023-04-26 15:07:04 pid:50987 Workerman[server2.php] has been stopped
+2023-04-26 15:07:05 pid:50989 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:08:00 pid:50989 Workerman[server2.php] stopping ...
+2023-04-26 15:08:00 pid:50989 Workerman[server2.php] has been stopped
+2023-04-26 15:08:01 pid:50992 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:19:30 pid:50992 Workerman[server2.php] stopping ...
+2023-04-26 15:19:30 pid:50992 Workerman[server2.php] has been stopped
+2023-04-26 15:19:31 pid:51051 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:20:04 pid:51051 Workerman[server2.php] stopping ...
+2023-04-26 15:20:04 pid:51051 Workerman[server2.php] has been stopped
+2023-04-26 15:20:05 pid:51056 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:20:43 pid:51056 Workerman[server2.php] stopping ...
+2023-04-26 15:20:43 pid:51056 Workerman[server2.php] has been stopped
+2023-04-26 15:32:20 pid:51063 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:35:09 pid:51063 Workerman[server2.php] stopping ...
+2023-04-26 15:35:09 pid:51063 Workerman[server2.php] has been stopped
+2023-04-26 15:35:09 pid:51067 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:39:50 pid:51067 Workerman[server2.php] stopping ...
+2023-04-26 15:39:50 pid:51067 Workerman[server2.php] has been stopped
+2023-04-26 15:39:51 pid:51119 Workerman[server2.php] start in DEBUG mode
+2023-04-26 15:41:25 pid:51119 Workerman[server2.php] stopping ...
+2023-04-26 15:41:25 pid:51119 Workerman[server2.php] has been stopped
+2023-04-26 15:46:11 pid:51124 Workerman[server2.php] start in DEBUG mode
+2023-04-26 16:35:19 pid:51124 Workerman[server2.php] stopping ...
+2023-04-26 16:35:19 pid:51124 Workerman[server2.php] stopping ...
+2023-04-26 16:35:19 pid:51124 Workerman[server2.php] has been stopped
+2023-04-26 18:08:12 pid:51479 Workerman[server2.php] start in DEBUG mode
+2023-04-26 18:10:57 pid:51479 Workerman[server2.php] stopping ...
+2023-04-26 18:10:57 pid:51479 Workerman[server2.php] has been stopped
+2023-04-26 18:10:58 pid:51586 Workerman[server2.php] start in DEBUG mode
+2023-04-26 18:32:12 pid:51586 Workerman[server2.php] stopping ...
+2023-04-26 18:32:12 pid:51586 Workerman[server2.php] has been stopped
+2023-04-26 18:32:14 pid:51597 Workerman[server2.php] start in DEBUG mode
+2023-04-26 18:35:06 pid:51597 Workerman[server2.php] stopping ...
+2023-04-26 18:35:06 pid:51597 Workerman[server2.php] has been stopped
+2023-04-26 18:35:08 pid:51601 Workerman[server2.php] start in DEBUG mode
+2023-04-26 18:35:28 pid:51601 Workerman[server2.php] stopping ...
+2023-04-26 18:35:28 pid:51601 Workerman[server2.php] has been stopped
+2023-04-26 18:35:29 pid:51603 Workerman[server2.php] start in DEBUG mode
+2023-04-26 18:38:08 pid:51603 Workerman[server2.php] stopping ...
+2023-04-26 18:38:08 pid:51603 Workerman[server2.php] has been stopped
+2023-04-26 18:38:10 pid:51605 Workerman[server2.php] start in DEBUG mode
+2023-04-26 18:55:33 pid:51605 Workerman[server2.php] stopping ...
+2023-04-26 18:55:33 pid:51605 Workerman[server2.php] has been stopped
+2023-04-26 18:55:34 pid:51664 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:02:32 pid:51664 Workerman[server2.php] stopping ...
+2023-04-26 19:02:32 pid:51664 Workerman[server2.php] has been stopped
+2023-04-26 19:02:33 pid:51666 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:07:38 pid:51666 Workerman[server2.php] stopping ...
+2023-04-26 19:07:38 pid:51666 Workerman[server2.php] has been stopped
+2023-04-26 19:07:39 pid:51670 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:50:26 pid:51931 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:50:26 pid:51931 Workerman[server2.php] already running
+2023-04-26 19:50:32 pid:51932 Workerman[server2.php] stop 
+2023-04-26 19:50:32 pid:51932 Workerman[server2.php] is stopping ...
+2023-04-26 19:50:32 pid:51670 Workerman[server2.php] stopping ...
+2023-04-26 19:50:33 pid:51670 Workerman[server2.php] has been stopped
+2023-04-26 19:50:33 pid:51932 Workerman[server2.php] stop success
+2023-04-26 19:50:35 pid:51933 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:53:23 pid:51933 Workerman[server2.php] stopping ...
+2023-04-26 19:53:23 pid:51933 Workerman[server2.php] has been stopped
+2023-04-26 19:53:24 pid:51935 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:54:46 pid:51935 Workerman[server2.php] stopping ...
+2023-04-26 19:54:46 pid:51935 Workerman[server2.php] has been stopped
+2023-04-26 19:54:48 pid:51938 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:55:42 pid:51938 Workerman[server2.php] stopping ...
+2023-04-26 19:55:42 pid:51938 Workerman[server2.php] has been stopped
+2023-04-26 19:55:43 pid:51941 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:56:38 pid:51941 Workerman[server2.php] stopping ...
+2023-04-26 19:56:38 pid:51941 Workerman[server2.php] has been stopped
+2023-04-26 19:56:39 pid:51943 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:57:24 pid:51943 Workerman[server2.php] stopping ...
+2023-04-26 19:57:24 pid:51943 Workerman[server2.php] has been stopped
+2023-04-26 19:57:25 pid:51946 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:59:09 pid:51946 Workerman[server2.php] stopping ...
+2023-04-26 19:59:09 pid:51946 Workerman[server2.php] has been stopped
+2023-04-26 19:59:10 pid:51948 Workerman[server2.php] start in DEBUG mode
+2023-04-26 19:59:54 pid:51948 Workerman[server2.php] stopping ...
+2023-04-26 19:59:54 pid:51948 Workerman[server2.php] has been stopped
+2023-04-26 19:59:55 pid:51950 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:00:15 pid:51950 Workerman[server2.php] stopping ...
+2023-04-26 20:00:15 pid:51950 Workerman[server2.php] has been stopped
+2023-04-26 20:00:16 pid:51952 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:01:30 pid:51952 Workerman[server2.php] stopping ...
+2023-04-26 20:01:30 pid:51952 Workerman[server2.php] has been stopped
+2023-04-26 20:01:31 pid:51954 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:01:49 pid:51954 Workerman[server2.php] stopping ...
+2023-04-26 20:01:49 pid:51954 Workerman[server2.php] has been stopped
+2023-04-26 20:01:50 pid:51957 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:02:48 pid:51957 Workerman[server2.php] stopping ...
+2023-04-26 20:02:48 pid:51957 Workerman[server2.php] has been stopped
+2023-04-26 20:02:49 pid:51960 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:04:13 pid:51960 Workerman[server2.php] stopping ...
+2023-04-26 20:04:13 pid:51960 Workerman[server2.php] has been stopped
+2023-04-26 20:04:14 pid:51963 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:04:54 pid:51963 Workerman[server2.php] stopping ...
+2023-04-26 20:04:54 pid:51963 Workerman[server2.php] has been stopped
+2023-04-26 20:04:55 pid:51965 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:06:16 pid:51965 Workerman[server2.php] stopping ...
+2023-04-26 20:06:16 pid:51965 Workerman[server2.php] has been stopped
+2023-04-26 20:06:18 pid:51967 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:06:47 pid:51967 Workerman[server2.php] stopping ...
+2023-04-26 20:06:47 pid:51967 Workerman[server2.php] has been stopped
+2023-04-26 20:06:49 pid:51969 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:17:20 pid:51969 Workerman[server2.php] stopping ...
+2023-04-26 20:17:20 pid:51969 Workerman[server2.php] has been stopped
+2023-04-26 20:17:22 pid:52027 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:19:36 pid:52027 Workerman[server2.php] stopping ...
+2023-04-26 20:19:36 pid:52027 Workerman[server2.php] has been stopped
+2023-04-26 20:19:38 pid:52029 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:27:20 pid:52029 Workerman[server2.php] stopping ...
+2023-04-26 20:27:20 pid:52029 Workerman[server2.php] has been stopped
+2023-04-26 20:27:21 pid:52033 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:27:36 pid:52033 Workerman[server2.php] stopping ...
+2023-04-26 20:27:36 pid:52033 Workerman[server2.php] has been stopped
+2023-04-26 20:27:37 pid:52035 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:29:13 pid:52035 Workerman[server2.php] stopping ...
+2023-04-26 20:29:13 pid:52035 Workerman[server2.php] has been stopped
+2023-04-26 20:29:14 pid:52037 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:32:27 pid:52037 Workerman[server2.php] stopping ...
+2023-04-26 20:32:27 pid:52037 Workerman[server2.php] has been stopped
+2023-04-26 20:32:28 pid:52040 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:32:51 pid:52040 Workerman[server2.php] stopping ...
+2023-04-26 20:32:51 pid:52040 Workerman[server2.php] has been stopped
+2023-04-26 20:37:06 pid:52043 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:38:18 pid:52043 Workerman[server2.php] stopping ...
+2023-04-26 20:38:18 pid:52043 Workerman[server2.php] has been stopped
+2023-04-26 20:38:19 pid:52046 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:40:17 pid:52046 Workerman[server2.php] stopping ...
+2023-04-26 20:40:17 pid:52046 Workerman[server2.php] has been stopped
+2023-04-26 20:40:18 pid:52097 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:42:06 pid:52097 Workerman[server2.php] stopping ...
+2023-04-26 20:42:07 pid:52097 Workerman[server2.php] has been stopped
+2023-04-26 20:42:07 pid:52099 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:42:50 pid:52099 Workerman[server2.php] stopping ...
+2023-04-26 20:42:50 pid:52099 Workerman[server2.php] has been stopped
+2023-04-26 20:42:51 pid:52101 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:43:00 pid:52101 Workerman[server2.php] stopping ...
+2023-04-26 20:43:00 pid:52101 Workerman[server2.php] has been stopped
+2023-04-26 20:43:00 pid:52104 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:47:55 pid:52104 Workerman[server2.php] stopping ...
+2023-04-26 20:47:55 pid:52104 Workerman[server2.php] has been stopped
+2023-04-26 20:47:56 pid:52108 Workerman[server2.php] start in DEBUG mode
+2023-04-26 20:51:44 pid:52108 Workerman[server2.php] stopping ...
+2023-04-26 20:51:44 pid:52108 Workerman[server2.php] has been stopped
+2023-04-26 21:07:55 pid:52205 Workerman[server2.php] start in DEBUG mode
+2023-04-26 21:09:58 pid:52205 Workerman[server2.php] stopping ...
+2023-04-26 21:09:58 pid:52205 Workerman[server2.php] has been stopped
+2023-04-26 21:11:50 pid:52320 Workerman[server2.php] start in DEBUG mode
+2023-04-26 21:13:42 pid:52320 Workerman[server2.php] stopping ...
+2023-04-26 21:13:42 pid:52320 Workerman[server2.php] has been stopped
+2023-04-26 21:43:54 pid:52457 Workerman[server2.php] start in DEBUG mode
+2023-04-26 21:52:26 pid:52457 Workerman[server2.php] stopping ...
+2023-04-26 21:52:26 pid:52457 Workerman[server2.php] has been stopped
+2023-04-26 21:52:38 pid:52517 Workerman[server2.php] start in DEBUG mode
+2023-04-26 21:52:48 pid:52517 Workerman[server2.php] stopping ...
+2023-04-26 21:52:48 pid:52517 Workerman[server2.php] has been stopped
+2023-04-26 21:52:49 pid:52520 Workerman[server2.php] start in DEBUG mode
+2023-04-26 21:54:57 pid:52520 Workerman[server2.php] stopping ...
+2023-04-26 21:54:57 pid:52520 Workerman[server2.php] has been stopped
+2023-04-26 22:04:16 pid:52599 Workerman[server2.php] start in DEBUG mode
