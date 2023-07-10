@@ -43,7 +43,7 @@ The assignment focuses on utilizing websockets to create an online game called P
 
 Remember to pay attention to the graphical appearance of the application.
 
-![Game area for one, two, three, and four players](game.PNG)
+![Game area for one, two, three, and four players](Capture.PNG)
 
 ## Conclusion
 This assignment focuses on utilizing websockets to create an online game similar to Pong. Follow the instructions provided and make sure to implement the required functionalities. Good luck with your assignment!
